@@ -10,11 +10,11 @@ export default function Footer() {
               ARTISANAT
             </Link>
             <p className="text-sm text-muted-foreground">
-              Votre boutique en ligne pour les produits artisanaux algériens.
+              Votre boutique en ligne pour les produits d&apos;artisanat algérien.
             </p>
           </div>
           <div className="flex flex-wrap gap-5 text-sm text-muted-foreground">
-            <Link href="https://github.com/nazimboudeffa" target="_blank" className="hover:underline">
+            <Link href="https://github.com/rapidosaas" target="_blank" className="hover:underline">
               GitHub
             </Link>
             <Link href="/tos" className="hover:underline">
