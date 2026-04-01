@@ -10,7 +10,7 @@ export default function Footer() {
               ARTISANAT
             </Link>
             <p className="text-sm text-muted-foreground">
-              Votre boutique en ligne pour les produits d&apos;artisanat algérien.
+              Votre boutique en ligne pour les produits d&apos;artisanat algérien. Disponibles dircetement à l&apos;Aéroport d&apos;Alger.
             </p>
           </div>
           <div className="flex flex-wrap gap-5 text-sm text-muted-foreground">
