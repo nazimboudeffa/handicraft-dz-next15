@@ -9,7 +9,7 @@ export default function Home() {
           Votre boutique en ligne pour les produits d&apos;artisanat algérien.
         </h1>
         <p className="mt-3 text-sm text-stone-700 md:text-base">
-          Disponibles dircetement à l&apos;Aéroport d&apos;Alger{" "}
+          Disponibles directement à l&apos;Aéroport d&apos;Alger{" "}
           <a
             href="https://www.facebook.com/ArtAndHandicraft"
             target="_blank"
